@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">Marvin Fabricante</h2>
-
 ###
 
 <p align="center">I'm an aspiring Full-Stack Developer with hands-on experience delivering real-world solutions using Java, Spring Boot, React, PostgreSQL, and AWS.</p>
