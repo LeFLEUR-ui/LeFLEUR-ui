@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 <h2 align="center">Marvin Fabricante</h2>
 
 
-<p align="center">I'm an aspiring Full-Stack Developer with hands-on experience delivering real-world solutions using Java, Spring Boot, React, PostgreSQL, and AWS.</p>
+<p align="center">I'm an aspiring Full-Stack Developer with hands-on experience delivering real-world solutions using TypeScript, React.js, Next.js, NestJS, and PostgreSQL.</p>
 
 ###
 
-<p align="center">I apply established software engineering practices such as Clean Architecture, Microservices, the Reactive Programming, OOP, and SOLID principles to develop scalable and maintainable applications. I take sense of achievement in delivering high-quality solutions, reflecting my dedication to excellence within the Java and Spring ecosystem.</p>
+<p align="center">I design and develop scalable, maintainable applications by applying established software engineering practices, including Clean Architecture, Microservices, OOP, and SOLID principles. Passionate about delivering high-quality solutions, I thrive in building robust and efficient systems in Full-Stack Development.</p>
 
 ###
 
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,java,kotlin,spring,graphql,react,nextjs,tailwind,bootstrap" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,typescript,nodejs,tailwindcss,bootstrap,react,nextjs,nestjs,graphql" height="40" />
   <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,prometheus,grafana,docker,aws,androidstudio" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,python,fastapi,opnecv,tensorflow,php,laravel,docker" height="40" />
 </div>
 
 ###
