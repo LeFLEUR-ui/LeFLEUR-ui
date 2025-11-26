@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,typescript,nodejs,tailwindcss,bootstrap,react,nextjs,nestjs,graphql" height="40" />
   <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,python,fastapi,opnecv,tensorflow,php,laravel,docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,python,fastapi,opencv,tensorflow,php,laravel,docker" height="40" />
 </div>
 
 ###
