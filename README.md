@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,typescript,nodejs,tailwindcss,react,nextjs,nestjs,graphql" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,typescript,nodejs,tailwindcss,react,nextjs,nestjs" height="40" />
   <br />
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,python,fastapi,cs,dotnet,java,spring,docker" height="40" />
 </div>
