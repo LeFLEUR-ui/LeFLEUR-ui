@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 <h2 align="center">Marvin Fabricante</h2>
 
 
-<p align="center">I'm an aspiring Full-Stack Developer with hands-on experience delivering real-world solutions using TypeScript, React.js, Next.js, NestJS, and PostgreSQL.</p>
+<p align="center">I'm an aspiring Full-Stack Developer with hands-on experience delivering real-world solutions using TypeScript, React.js, NestJS, and PostgreSQL.</p>
 
 ###
 
-<p align="center">I design and develop scalable, maintainable applications by applying established software engineering practices, including Clean Architecture, Microservices, OOP, and SOLID principles. Passionate about delivering high-quality solutions, I thrive in building robust and efficient systems in Full-Stack Development.</p>
+<p align="center">I build applications that are easy to grow and easy to maintain. I follow well-established coding and architectural practices like Clean Architecture, OOP and SOLID Principles ensuring every line of code serves a purpose.</p>
 
 ###
 
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,typescript,nodejs,tailwindcss,react,nextjs,nestjs" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,python,go,fastapi,flask,tensorflow,pytorch,opencv,docker" height="40" />
   <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,python,fastapi,cs,dotnet,java,spring,docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,typescript,react,nestjs,postgres,mongodb,aws" height="40" />
 </div>
 
 ###
