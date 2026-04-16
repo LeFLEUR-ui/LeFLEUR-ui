@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 <h2 align="center">Marvin Fabricante</h2>
 
 
-<p align="center">I'm an aspiring Full-Stack Developer with hands-on experience delivering real-world solutions using TypeScript, React.js, NestJS, and PostgreSQL.</p>
+<p align="center">I'm an aspiring IT Professional with hands-on experience delivering real-world solutions in Linux System Administration, Software Development, and DevOps.</p>
 
 ###
 
-<p align="center">I build applications that are easy to grow and easy to maintain. I follow well-established coding and architectural practices like Clean Architecture, OOP and SOLID Principles ensuring every line of code serves a purpose.</p>
+<p align="center">I design and manage scalable, production-ready systems, focusing on Linux administration, DevOps, and software development. I apply industry-standard practices in system architecture and automation, using principles like Clean Architecture, OOP, and SOLID to keep solutions efficient, modular, and maintainable.</p>
 
 ###
 
