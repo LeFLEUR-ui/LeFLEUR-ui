@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center">I design and manage scalable, production-ready systems, focusing on Linux administration, DevOps, and software development. I apply industry-standard practices in system architecture and automation, using principles like Clean Architecture, OOP, and SOLID to keep solutions efficient, modular, and maintainable.</p>
+<p align="center">I build and manage scalable, production-ready systems with a focus on Linux administration, DevOps, and software development, applying proven practices and principles to ensure efficiency, modularity, and maintainability.</p>
 
 ###
 
